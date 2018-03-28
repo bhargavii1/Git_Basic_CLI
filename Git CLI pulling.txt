@@ -1,0 +1,20 @@
+#this text document is for those who want to change the other's repositories with the owner's permission
+0.git init (creates a .git folder)
+
+1.First Fork the repository which you want make some changes(Forking is nothing but adding the other's repository into our GitHub account)
+
+2.After the completion of forking, use "git clone URL" to clone the forked repository to your local repository(i.e to your computer) 
+
+3.Then make the changes that you want to change to that repository
+
+4.after that use "git add --all"
+
+#git config --global user.email "our.mail"  (this command is used for those who are doing this for the first time)
+                    
+#git config --global user.name "github username" (this command is used for those who are doing this for the first time)
+
+5."git status"
+
+6.git commit -am "message"
+
+7."git push origin master"
