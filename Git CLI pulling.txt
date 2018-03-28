@@ -18,3 +18,9 @@
 6.git commit -am "message"
 
 7."git push origin master"
+
+8.After pushing then click the pull request which is located on the top right corner of the respective repository
+
+9.after completion of creating the pull request, wait untill the owner of the repository confirms the merge
+
+10.After confirming the repository will be merged
